@@ -1,0 +1,38 @@
+[
+	{
+		"group": "A+",
+		"names" : [
+			"Mohaimen Chowdhury",
+			"Sadman Sakib"
+		]
+	},
+	{
+		"group": "A-",
+		"names" : [
+			"Shaikh Ashik",
+			"Peter Parkar"
+		]
+	},
+	{
+		"group": "B+",
+		"names": [
+			"Ashfaq Iftakher",
+			"Kamrul Islam",
+			"Clark Kent"
+		]
+	},
+	{
+		"group": "B-",
+		"names": [
+			"Bruce Wayne",
+			"Barry Allen"
+		]
+	},
+	{
+		"group": "AB+",
+		"names": [
+			"Rocky",
+			"Dowayne Jhonson"
+		]
+	}
+]
